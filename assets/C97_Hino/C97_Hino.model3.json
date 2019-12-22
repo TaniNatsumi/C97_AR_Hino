@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "C97_Hino.moc3",
+		"Textures": [
+			"C97_Hino.2048/texture_00.png"
+		],
+		"Physics": "C97_Hino.physics3.json",
+		"DisplayInfo": "C97_Hino.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
